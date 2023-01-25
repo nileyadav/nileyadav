@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nileyadav
-- 👀 I’m interested in C++, Avro
+- 👀 I’m interested in C++, Avro, Spark data source connector
 - 💞️ I’m looking to collaborate on Avro C++ library
 
 <!---
